@@ -1,59 +1,75 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tokyo-night.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/tokyo-day.svg">
-  <img alt="Hola, soy Dylan. En formación: DevOps y arquitectura de soluciones. Java, DevOps y Kubernetes." src="assets/tokyo-day.svg">
+  <img alt="Dylan · DevOps y arquitectura de soluciones en formación" src="assets/tokyo-day.svg">
 </picture>
 
 <p align="center">
-  <a href="#sobre-mí">Sobre mí</a> &nbsp; · &nbsp;
   <a href="#mi-enfoque">Mi enfoque</a> &nbsp; · &nbsp;
-  <a href="#práctica-destacada">Cerebro</a> &nbsp; · &nbsp;
-  <a href="#proyectos-de-final-de-grado-superior">AnimalGO</a> &nbsp; · &nbsp;
+  <a href="#cerebro">Cerebro</a> &nbsp; · &nbsp;
+  <a href="#animalgo">AnimalGO</a> &nbsp; · &nbsp;
   <a href="https://github.com/Dylan0247?tab=repositories">Repositorios</a>
 </p>
 
 ## Sobre mí
 
-Soy Dylan y estoy estudiando para orientar mi carrera hacia **DevOps y la arquitectura de soluciones**.
-
-Tengo conocimientos de **Java** y actualmente estoy aprendiendo **Kubernetes**, mientras amplío mi formación en DevOps y diseño de soluciones.
+Soy **Dylan**. Tengo conocimientos de **Java** y estoy orientando mi formación hacia **DevOps y la arquitectura de soluciones**, con especial interés en Kubernetes, servidores y nube.
 
 ## Mi enfoque
 
-| Área | Conocimientos y enfoque |
+**Desarrollo**
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-334155?style=flat">
+  <img alt="Python" src="https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=7aa2f7">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-334155?style=flat&logo=dart&logoColor=7dcfff">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-334155?style=flat&logo=flutter&logoColor=7dcfff">
+</p>
+
+**En formación**
+
+<p>
+  <img alt="Kubernetes · en formación" src="https://img.shields.io/badge/Kubernetes-334155?style=flat&logo=kubernetes&logoColor=7aa2f7">
+  <img alt="DevOps · en formación" src="https://img.shields.io/badge/DevOps-334155?style=flat">
+  <img alt="Servidores y nube · en formación" src="https://img.shields.io/badge/Servidores_y_nube-334155?style=flat&logo=icloud&logoColor=7dcfff">
+</p>
+
+Aprendo a diseñar y operar infraestructura y soluciones en la nube. También practico la **orquestación de IA generativa**, conectando modelos, herramientas y memoria mediante automatizaciones.
+
+## Cerebro
+
+**Práctica personal · Automatización y contexto para IA**
+
+<p>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-334155?style=flat&logo=obsidian&logoColor=bb9af7">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-334155?style=flat&logo=n8n&logoColor=bb9af7">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-334155?style=flat&logo=ollama&logoColor=c0caf5">
+</p>
+
+Integro **Obsidian, n8n, Ollama, Qwen3 y Codex** para conservar contexto, decisiones y evidencias entre sesiones.
+
+- **Integración:** workflows autenticados y un conector MCP para consultar notas y modelos.
+- **Automatización:** resúmenes y relevos con reintentos y prevención de duplicados.
+- **Memoria:** estado vigente separado del histórico, con revisión, fuentes y respaldos.
+- **Operación:** servicios en Ubuntu WSL y arranque automático desde Windows.
+
+La inferencia de Qwen3 es local; el circuito también utiliza Codex. Las herramientas MCP consultan y proponen, y los cambios se aplican mediante procesos separados y revisados.
+
+## AnimalGO
+
+**Proyecto anterior · Final de grado superior**
+
+RPG educativo sobre animales: aplicación en **Flutter y Dart**, API en **Python y FastAPI**, y servicios de datos y autenticación con **Supabase y PostgreSQL**.
+
+| Aplicación | API |
 | :--- | :--- |
-| Desarrollo | **Java · Python · Dart · Flutter** |
-| Práctica aplicada | **Orquestación de IA generativa**, integración de modelos y herramientas mediante n8n, Ollama y MCP en Cerebro. |
-| En aprendizaje | **Kubernetes · DevOps · Infraestructura de servidores y nube · Arquitectura de soluciones** |
-| Objetivo profesional | Trabajar en DevOps y evolucionar hacia el diseño y la operación de infraestructura y soluciones en la nube. |
+| [AnimalGO_frontend →](https://github.com/Dylan0247/AnimalGO_frontend) | [AnimalGO_backend →](https://github.com/Dylan0247/AnimalGO_backend) |
+| ![Último commit de la aplicación](https://img.shields.io/github/last-commit/Dylan0247/AnimalGO_frontend?style=flat&label=último%20commit&color=7aa2f7) | ![Último commit de la API](https://img.shields.io/github/last-commit/Dylan0247/AnimalGO_backend?style=flat&label=último%20commit&color=7aa2f7) |
 
-## Práctica destacada
+## Actividad
 
-### Cerebro · Automatización y contexto para IA
-
-Implementación personal que conecta **Obsidian, n8n, Ollama, Qwen3 y Codex** para conservar contexto, decisiones y evidencias entre sesiones. La inferencia de Qwen3 es local en **Ubuntu WSL**; el circuito completo también utiliza Codex.
-
-| Área | Trabajo realizado |
-| :--- | :--- |
-| Integración | Workflows autenticados en n8n y conector **MCP** de ocho herramientas para recuperar contexto, consultar el modelo y preparar propuestas. |
-| Automatización | Resúmenes de turnos y relevos estructurados, con prevención de duplicados, reintentos y registro de fallos. |
-| Memoria controlada | Separación de estado vigente, histórico y borradores; consolidación revisada con fuentes, hashes, respaldos y restauración. |
-| Operación | Servicios en WSL, reinicio de n8n ante fallos y arranque programado desde Windows. |
-
-**Cómo trabajo:** recuperación selectiva de contexto, revisión de respuestas de IA y cambios trazables y recuperables. Las herramientas MCP consultan y proponen; la aplicación de cambios ocurre mediante procesos separados y revisados.
-
-## Proyectos de final de grado superior
-
-### AnimalGO · Proyecto anterior
-
-**RPG educativo sobre animales desarrollado como proyecto de final de grado superior.** Integra una aplicación en **Flutter y Dart**, una API en **Python y FastAPI**, y servicios de datos y autenticación con **Supabase y PostgreSQL**.
-
-[Aplicación →](https://github.com/Dylan0247/AnimalGO_frontend) &nbsp; · &nbsp; [API →](https://github.com/Dylan0247/AnimalGO_backend)
-
-## Mi trabajo
-
-Puedes explorar mis [repositorios](https://github.com/Dylan0247?tab=repositories) y la actividad que aparece en este perfil para seguir mis proyectos y aprendizaje.
+Puedes seguir mis proyectos y aprendizaje en mis [repositorios](https://github.com/Dylan0247?tab=repositories) y en el calendario de contribuciones de este perfil.
 
 ---
 
-<p align="center"><sub>DYLAN0247 &nbsp; / &nbsp; Java · DevOps en formación · Arquitectura de soluciones</sub></p>
+<p align="center"><sub>DYLAN0247 · Desarrollo · DevOps en formación · Arquitectura de soluciones</sub></p>
