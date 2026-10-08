@@ -31,9 +31,11 @@ Soy **Dylan**. Tengo conocimientos de **Java** y estoy orientando mi formación 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" width="56" height="56"> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="56" height="56">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS · En formación" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure · En formación" width="56" height="56">
 </p>
-<p align="center"><sub>Kubernetes &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Servidores y nube &nbsp; · &nbsp; Arquitectura de soluciones</sub></p>
+<p align="center"><sub>Kubernetes &nbsp; · &nbsp; Linux &nbsp; · &nbsp; AWS &nbsp; · &nbsp; Azure &nbsp; · &nbsp; Servidores y nube &nbsp; · &nbsp; Arquitectura de soluciones</sub></p>
 
 Aprendo a diseñar y operar infraestructura y soluciones en la nube. También practico la **orquestación de IA generativa**, conectando modelos, herramientas y memoria mediante automatizaciones.
 
@@ -44,9 +46,14 @@ Aprendo a diseñar y operar infraestructura y soluciones en la nube. También pr
 <p align="center">
   <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="56" height="56"> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48"> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/7aa2f7" alt="Ollama" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/ollama/7aa2f7" alt="Ollama" width="48" height="48"> &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" alt="Codex" width="56" height="56">
+  </picture> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48">
 </p>
-<p align="center"><sub>Obsidian &nbsp; · &nbsp; n8n &nbsp; · &nbsp; Ollama</sub></p>
+<p align="center"><sub>Obsidian &nbsp; · &nbsp; n8n &nbsp; · &nbsp; Ollama &nbsp; · &nbsp; Codex &nbsp; · &nbsp; Claude</sub></p>
 
 Integro **Obsidian, n8n, Ollama, Qwen3 y Codex** para conservar contexto, decisiones y evidencias entre sesiones.
 
