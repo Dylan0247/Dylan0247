@@ -63,7 +63,7 @@ La recuperación usa búsqueda por texto y filtros, sin embeddings ni base vecto
 
 **RPG educativo sobre animales desarrollado como proyecto de final de grado superior.** Integra una aplicación en **Flutter y Dart**, una API en **Python y FastAPI**, y servicios de datos y autenticación con **Supabase y PostgreSQL**.
 
-[Aplicación →](https://github.com/Dylan0247/frontend) &nbsp; · &nbsp; [API →](https://github.com/Dylan0247/backend)
+[Aplicación →](https://github.com/Dylan0247/AnimalGO_frontend) &nbsp; · &nbsp; [API →](https://github.com/Dylan0247/AnimalGO_backend)
 
 ## Mi trabajo
 
