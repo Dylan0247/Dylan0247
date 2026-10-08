@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Dylan — DevOps y arquitectura de soluciones</title><desc id="desc">Cabecera Tokyo Night clara con azul y violeta suave. En formación: DevOps y arquitectura de soluciones.</desc>
+<rect width="1200" height="360" rx="18" fill="#f6f8fc"/>
+<rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#dce1ee"/>
+<path d="M850 0v360M940 0v360M1030 0v360M1120 0v360M810 70h390M810 160h390M810 250h390" stroke="#e7ebf4" stroke-width="1"/>
+<rect x="56" y="52" width="32" height="4" rx="2" fill="#4667aa"/>
+<text x="102" y="60" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#56627b">DYLAN0247 / APRENDIZAJE Y PROYECTOS</text>
+<text x="56" y="153" font-family="Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2" fill="#26334d">Hola, soy Dylan.</text>
+<text x="59" y="207" font-family="Arial,sans-serif" font-size="23" fill="#56627b">Aplicaciones, APIs y experiencias interactivas.</text>
+<line x1="59" y1="250" x2="726" y2="250" stroke="#dce1ee"/>
+<text x="59" y="296" font-family="Arial,sans-serif" font-size="15" letter-spacing="2" fill="#4667aa">JAVA</text>
+<text x="182" y="296" font-family="Arial,sans-serif" font-size="15" fill="#8893ab">/</text>
+<text x="214" y="296" font-family="Arial,sans-serif" font-size="15" letter-spacing="2" fill="#795ca9">DEVOPS</text>
+<text x="333" y="296" font-family="Arial,sans-serif" font-size="15" fill="#8893ab">/</text>
+<text x="365" y="296" font-family="Arial,sans-serif" font-size="15" letter-spacing="2" fill="#527957">KUBERNETES</text>
+<rect x="884" y="103" width="223" height="159" rx="12" fill="#edf0f8" stroke="#c6cde1"/>
+<path d="m945 151-26 28 26 28m102-56 26 28-26 28m-47-69-17 81" fill="none" stroke="#795ca9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="884" y="246" width="223" height="16" rx="8" fill="#c6cde1"/>
+</svg>
