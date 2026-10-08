@@ -42,21 +42,6 @@ Implementación personal que conecta **Obsidian, n8n, Ollama, Qwen3 y Codex** pa
 
 **Cómo trabajo:** recuperación selectiva de contexto, revisión de respuestas de IA y cambios trazables y recuperables. Las herramientas MCP consultan y proponen; la aplicación de cambios ocurre mediante procesos separados y revisados.
 
-<details>
-<summary>Pruebas documentadas y límites</summary>
-
-Según mi documentación de las implementaciones del **5 de octubre de 2026**, revisada el **8 de octubre**:
-
-- **67 pruebas aisladas superadas** entre memoria controlada, guardado automático, consolidación revisada, recuperación filtrada y extracción de pendientes, además de recorridos reales de integración.
-- Evaluación de Qwen3: **21 de 30 respuestas** cumplieron completamente el protocolo estricto. Se registraron fallos de citas, clasificación y veredictos; este resultado no mide una precisión general y las respuestas siguen requiriendo revisión.
-- Comprobaciones de autenticación, fuentes, hashes, compatibilidad MCP, duplicados, respaldos y restauración.
-
-**Pendiente en ese corte:** observar el primer inicio después de reiniciar Windows y ampliar la evaluación cuando cambien el modelo o sus responsabilidades.
-
-La recuperación usa búsqueda por texto y filtros, sin embeddings ni base vectorial. Los borradores automáticos no se convierten directamente en hechos confirmados ni actualizan el estado vigente.
-
-</details>
-
 ## Proyectos de final de grado superior
 
 ### AnimalGO · Proyecto anterior
