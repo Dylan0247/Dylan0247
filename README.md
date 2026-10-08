@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-day.svg">
-  <img alt="Dylan · DevOps y arquitectura de soluciones en formación" src="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg">
-</picture>
+<img alt="Hola, soy Dylan · DevOps y arquitectura de soluciones en formación" src="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg" width="100%">
 
 <p align="center">
   <a href="#mi-enfoque">Mi enfoque</a> &nbsp; · &nbsp;
