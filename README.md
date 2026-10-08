@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-Soy **Dylan**. Tengo conocimientos de **Java** y estoy orientando mi formación hacia **DevOps y la arquitectura de soluciones**, con especial interés en Kubernetes, servidores y nube.
+Tengo experiencia en  **Java**, **Python**, **Dart**  y estoy orientando mi formación hacia **DevOps y la arquitectura de soluciones**, con especial interés en Kubernetes, servidores y nube.
 
 ## Mi enfoque
 
