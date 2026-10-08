@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tokyo-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tokyo-day.svg">
-  <img alt="Dylan · DevOps y arquitectura de soluciones en formación" src="assets/tokyo-day.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-day.svg">
+  <img alt="Dylan · DevOps y arquitectura de soluciones en formación" src="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg">
 </picture>
 
 <p align="center">
