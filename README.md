@@ -17,22 +17,27 @@ Soy **Dylan**. Tengo conocimientos de **Java** y estoy orientando mi formación 
 
 ## Mi enfoque
 
-**Desarrollo**
+<p align="center"><strong>Desarrollo</strong></p>
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-334155?style=flat">
-  <img alt="Python" src="https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=7aa2f7">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-334155?style=flat&logo=dart&logoColor=7dcfff">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-334155?style=flat&logo=flutter&logoColor=7dcfff">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,dart,flutter&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,dart,flutter&theme=light">
+    <img src="https://skillicons.dev/icons?i=java,python,dart,flutter&theme=light" alt="Java, Python, Dart y Flutter" height="56">
+  </picture>
 </p>
+<p align="center"><sub>Java &nbsp; · &nbsp; Python &nbsp; · &nbsp; Dart &nbsp; · &nbsp; Flutter</sub></p>
 
-**En formación**
+<p align="center"><strong>Infraestructura y DevOps · En formación</strong></p>
 
-<p>
-  <img alt="Kubernetes · en formación" src="https://img.shields.io/badge/Kubernetes-334155?style=flat&logo=kubernetes&logoColor=7aa2f7">
-  <img alt="DevOps · en formación" src="https://img.shields.io/badge/DevOps-334155?style=flat">
-  <img alt="Servidores y nube · en formación" src="https://img.shields.io/badge/Servidores_y_nube-334155?style=flat&logo=icloud&logoColor=7dcfff">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,linux&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes,linux&theme=light">
+    <img src="https://skillicons.dev/icons?i=kubernetes,linux&theme=light" alt="Kubernetes y Linux" height="56">
+  </picture>
 </p>
+<p align="center"><sub>Kubernetes &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Servidores y nube &nbsp; · &nbsp; Arquitectura de soluciones</sub></p>
 
 Aprendo a diseñar y operar infraestructura y soluciones en la nube. También practico la **orquestación de IA generativa**, conectando modelos, herramientas y memoria mediante automatizaciones.
 
@@ -40,11 +45,12 @@ Aprendo a diseñar y operar infraestructura y soluciones en la nube. También pr
 
 **Práctica personal · Automatización y contexto para IA**
 
-<p>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-334155?style=flat&logo=obsidian&logoColor=bb9af7">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-334155?style=flat&logo=n8n&logoColor=bb9af7">
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-334155?style=flat&logo=ollama&logoColor=c0caf5">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48"> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/7aa2f7" alt="Ollama" width="48" height="48">
 </p>
+<p align="center"><sub>Obsidian &nbsp; · &nbsp; n8n &nbsp; · &nbsp; Ollama</sub></p>
 
 Integro **Obsidian, n8n, Ollama, Qwen3 y Codex** para conservar contexto, decisiones y evidencias entre sesiones.
 
@@ -66,17 +72,6 @@ RPG educativo sobre animales: aplicación en **Flutter y Dart**, API en **Python
 | [AnimalGO_frontend →](https://github.com/Dylan0247/AnimalGO_frontend) | [AnimalGO_backend →](https://github.com/Dylan0247/AnimalGO_backend) |
 | ![Último commit de la aplicación](https://img.shields.io/github/last-commit/Dylan0247/AnimalGO_frontend?style=flat&label=último%20commit&color=7aa2f7) | ![Último commit de la API](https://img.shields.io/github/last-commit/Dylan0247/AnimalGO_backend?style=flat&label=último%20commit&color=7aa2f7) |
 
-## Actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/output/snake.svg">
-  <img alt="Serpiente animada recorriendo mis contribuciones de GitHub" src="https://raw.githubusercontent.com/Dylan0247/Dylan0247/output/snake.svg" width="100%">
-</picture>
-
-<sub>Mis contribuciones, con una animación que se actualiza cada día. Generada con <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
-
-Puedes explorar mis [repositorios](https://github.com/Dylan0247?tab=repositories) para seguir mis proyectos y aprendizaje.
 
 ---
 
