@@ -84,6 +84,27 @@ La inferencia de Qwen3 es local; el circuito también utiliza Codex. Las herrami
 
 RPG educativo sobre animales: aplicación en **Flutter y Dart**, API en **Python y FastAPI**, y servicios de datos y autenticación con **Supabase y PostgreSQL**.
 
+<p align="center"><strong>Tecnologías utilizadas en AnimalGO</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter en AnimalGO" width="48" height="48"> &nbsp;
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart en AnimalGO" width="48" height="48"> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python en AnimalGO" width="48" height="48"> &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI en AnimalGO" width="48" height="48"> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL en AnimalGO" width="48" height="48"> &nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase en AnimalGO" width="48" height="48"> &nbsp;
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe en AnimalGO" width="40" height="40"> &nbsp;
+  <img src="https://cdn.simpleicons.org/render/7aa2f7" alt="Render en AnimalGO" width="40" height="40">
+</p>
+
+| Parte del proyecto | Experiencia aplicada |
+| :--- | :--- |
+| Aplicación y juego | **Flutter · Dart · Bonfire · Flame · Tiled**: interfaz, lógica del RPG y mapas. |
+| API | **Python · FastAPI**: servicios del backend y comunicación con la aplicación. |
+| Datos y autenticación | **PostgreSQL · Supabase**: persistencia de datos y autenticación. |
+| Pagos | **Stripe**: integración de compras dentro del proyecto. |
+| Despliegue | **Render**: despliegue de servicios del proyecto. |
+
 | Aplicación | API |
 | :--- | :--- |
 | [AnimalGO_frontend →](https://github.com/Dylan0247/AnimalGO_frontend) | [AnimalGO_backend →](https://github.com/Dylan0247/AnimalGO_backend) |
