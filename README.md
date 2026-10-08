@@ -20,22 +20,18 @@ Soy **Dylan**. Tengo conocimientos de **Java** y estoy orientando mi formación 
 <p align="center"><strong>Desarrollo</strong></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,dart,flutter&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,dart,flutter&theme=light">
-    <img src="https://skillicons.dev/icons?i=java,python,dart,flutter&theme=light" alt="Java, Python, Dart y Flutter" height="56">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="56" height="56">
 </p>
 <p align="center"><sub>Java &nbsp; · &nbsp; Python &nbsp; · &nbsp; Dart &nbsp; · &nbsp; Flutter</sub></p>
 
 <p align="center"><strong>Infraestructura y DevOps · En formación</strong></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,linux&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes,linux&theme=light">
-    <img src="https://skillicons.dev/icons?i=kubernetes,linux&theme=light" alt="Kubernetes y Linux" height="56">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="56" height="56">
 </p>
 <p align="center"><sub>Kubernetes &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Servidores y nube &nbsp; · &nbsp; Arquitectura de soluciones</sub></p>
 
