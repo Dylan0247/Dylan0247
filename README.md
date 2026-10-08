@@ -20,9 +20,12 @@ Tengo conocimientos de **Java** y actualmente estoy aprendiendo **Kubernetes**, 
 
 ## Mi enfoque
 
-| Base actual | En aprendizaje | Objetivo profesional |
-| :--- | :--- | :--- |
-| **Java** | **Kubernetes · DevOps · Arquitectura de soluciones** | Trabajar en DevOps y evolucionar hacia arquitectura de soluciones. |
+| Área | Conocimientos y enfoque |
+| :--- | :--- |
+| Desarrollo | **Java · Python · Dart · Flutter** |
+| Práctica aplicada | **Orquestación de IA generativa**, integración de modelos y herramientas mediante n8n, Ollama y MCP en Cerebro. |
+| En aprendizaje | **Kubernetes · DevOps · Infraestructura de servidores y nube · Arquitectura de soluciones** |
+| Objetivo profesional | Trabajar en DevOps y evolucionar hacia el diseño y la operación de infraestructura y soluciones en la nube. |
 
 ## Práctica destacada
 
