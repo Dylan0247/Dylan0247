@@ -34,6 +34,23 @@ Soy **Dylan**. Tengo conocimientos de **Java** y estoy orientando mi formación 
 </p>
 <p align="center"><sub>Kubernetes &nbsp; · &nbsp; Linux &nbsp; · &nbsp; AWS &nbsp; · &nbsp; Azure &nbsp; · &nbsp; Servidores y nube &nbsp; · &nbsp; Arquitectura de soluciones</sub></p>
 
+<p align="center"><strong>Bases de datos</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="56" height="56"> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" width="56" height="56">
+</p>
+<p align="center"><sub>PostgreSQL &nbsp; · &nbsp; MySQL &nbsp; · &nbsp; Supabase</sub></p>
+
+<p align="center"><strong>Servicios y despliegue</strong></p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="48" height="48"> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/7aa2f7" alt="Render" width="48" height="48">
+</p>
+<p align="center"><sub>Stripe &nbsp; · &nbsp; Render</sub></p>
+
 Aprendo a diseñar y operar infraestructura y soluciones en la nube. También practico la **orquestación de IA generativa**, conectando modelos, herramientas y memoria mediante automatizaciones.
 
 ## Cerebro
