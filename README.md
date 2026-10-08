@@ -8,7 +8,7 @@
   <a href="#sobre-mí">Sobre mí</a> &nbsp; · &nbsp;
   <a href="#mi-enfoque">Mi enfoque</a> &nbsp; · &nbsp;
   <a href="#práctica-destacada">Cerebro</a> &nbsp; · &nbsp;
-  <a href="#proyecto-actual">AnimalGO</a> &nbsp; · &nbsp;
+  <a href="#proyectos-de-final-de-grado-superior">AnimalGO</a> &nbsp; · &nbsp;
   <a href="https://github.com/Dylan0247?tab=repositories">Repositorios</a>
 </p>
 
@@ -57,20 +57,13 @@ La recuperación usa búsqueda por texto y filtros, sin embeddings ni base vecto
 
 </details>
 
-## Proyecto actual
+## Proyectos de final de grado superior
 
-### AnimalGO
+### AnimalGO · Proyecto anterior
 
-Mi proyecto actual es un **RPG educativo sobre animales**. Me permite trabajar con una aplicación multiplataforma, una API y servicios de datos y autenticación.
+**RPG educativo sobre animales desarrollado como proyecto de final de grado superior.** Integra una aplicación en **Flutter y Dart**, una API en **Python y FastAPI**, y servicios de datos y autenticación con **Supabase y PostgreSQL**.
 
-| Componente | Tecnologías del proyecto | Código |
-| :--- | :--- | :--- |
-| Aplicación y juego | Dart · Flutter · Bonfire · Flame · Tiled | [Frontend →](https://github.com/Dylan0247/frontend) |
-| API | Python · FastAPI | [Backend →](https://github.com/Dylan0247/backend) |
-| Datos y autenticación | PostgreSQL · Supabase | Incluidos en la aplicación y la API |
-| Integración de pagos | Stripe | Incluida en el proyecto |
-
-Los repositorios incluyen documentación de arranque y pruebas de navegación, servicios, autenticación y perfiles.
+[Aplicación →](https://github.com/Dylan0247/frontend) &nbsp; · &nbsp; [API →](https://github.com/Dylan0247/backend)
 
 ## Mi trabajo
 
