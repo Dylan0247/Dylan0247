@@ -68,7 +68,15 @@ RPG educativo sobre animales: aplicación en **Flutter y Dart**, API en **Python
 
 ## Actividad
 
-Puedes seguir mis proyectos y aprendizaje en mis [repositorios](https://github.com/Dylan0247?tab=repositories) y en el calendario de contribuciones de este perfil.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan0247/Dylan0247/output/snake.svg">
+  <img alt="Serpiente animada recorriendo mis contribuciones de GitHub" src="https://raw.githubusercontent.com/Dylan0247/Dylan0247/output/snake.svg" width="100%">
+</picture>
+
+<sub>Mis contribuciones, con una animación que se actualiza cada día. Generada con <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
+
+Puedes explorar mis [repositorios](https://github.com/Dylan0247?tab=repositories) para seguir mis proyectos y aprendizaje.
 
 ---
 
