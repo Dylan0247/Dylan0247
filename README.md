@@ -1,4 +1,5 @@
-<img alt="Hola, soy Dylan · DevOps y arquitectura de soluciones en formación" src="https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg" width="100%">
+![Hola, soy Dylan · Tema oscuro](https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-night.svg#gh-dark-mode-only)
+![Hola, soy Dylan · Tema claro](https://raw.githubusercontent.com/Dylan0247/Dylan0247/main/assets/tokyo-day.svg#gh-light-mode-only)
 
 <p align="center">
   <a href="#mi-enfoque">Mi enfoque</a> &nbsp; · &nbsp;
